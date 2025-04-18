@@ -11,7 +11,7 @@ This project is the intellectual effort of Md Salahuddin. The name "BidPrompt" h
 
 ## 🌐 Live App
 
-👉 [https://bidprompt.web.app](https://bidprompt.web.app)
+👉 [https://bidprompt.in](https://bidprompt.in)
 
 ---
 
